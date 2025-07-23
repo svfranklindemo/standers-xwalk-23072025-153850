@@ -1,4 +1,4 @@
 mappings:
- - /content/xsc-xwalk-site/:/
- - /content/xsc-xwalk-site/metadata.json:/metadata.json
- - /content/xsc-xwalk-site/redirects.json:/redirects.json
+ - /content/standers/standers-2025-7-23-8-38-11/:/
+ - /content/standers/standers-2025-7-23-8-38-11/metadata.json:/metadata.json
+ - /content/standers/standers-2025-7-23-8-38-11/redirects.json:/redirects.json
